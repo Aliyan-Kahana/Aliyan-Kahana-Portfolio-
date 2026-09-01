@@ -86,13 +86,6 @@ A comprehensive data analysis project examining a used car dataset of over one m
 * **Aggregations & Summaries**: Built interactive Pivot Tables using `AVERAGEIFS` and `SUMPRODUCT` to aggregate market prices across different car brands, registration years, and mileage brackets.
 * **KPI Formatting & Charts**: Created conditional formatting rules and custom charts to highlight key pricing trends, market share distribution, and depreciation metrics.
 
-## Excel Screenshots
-
-### 1. Advanced Formulas & Data Cleaning
-![Excel Formulas Preview](./excel%20images/your_formula_screenshot.png)
-
-### 2. Pivot Tables & Summary Reports
-![Excel Pivot Tables Preview](./excel%20images/your_pivot_screenshot.png)
 # Used Car Market Data Analysis & Intelligence Portfolio
 
 A comprehensive data analysis project examining a dataset of 1,000,000 used car records. This repository covers end-to-end data manipulation, SQL database queries, advanced Excel financial modeling and pivot analysis, and interactive Power BI executive dashboards.
@@ -147,21 +140,3 @@ A comprehensive data analysis project examining a dataset of 1,000,000 used car 
 * **Vehicle Condition & Ownership**: Evaluated accident history and ownership impact, revealing that first-owner cars make up 599K listings and accident-free vehicles maintain a higher average valuation.
 * **Regional Inventory Distribution**: Mapped inventory across 9 active cities (including Delhi, Hyderabad, and Mumbai), detailing regional volume and brand-level market shares.
 
-## Power BI Dashboard Screenshots
-
-### 1. Executive Overview and Price Dynamics
-![Executive Overview](./images/Screenshot%202026-09-01%20101353.png)
-
-### 2. Engine & Performance Specifications
-![Engine & Performance](./images/Screenshot%202026-09-01%20101402.png)
-
-### 3. Vehicle Feature and Condition Analysis
-![Vehicle Feature and Condition](./images/Screenshot%202026-09-01%20101530.png)
-
-### 4. Used Car Inventory & Regional Price Overview
-![Inventory & Regional Overview](./images/Screenshot%202026-09-01%20101641.png)
-
----
-
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
