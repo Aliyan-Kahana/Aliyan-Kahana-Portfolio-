@@ -62,6 +62,12 @@ A comprehensive data analysis project examining a used car dataset of over one m
 * **Engine & Performance Metrics**: Analyzed engine specifications across 39 active models, recording an average horsepower of 120.54 and 1.51K engine CC mapped across different fuel types and brands.
 * **Vehicle Condition & Ownership**: Evaluated accident history and ownership impact, revealing that first-owner cars make up 599K listings and accident-free vehicles maintain a higher average valuation.
 * **Regional Inventory Distribution**: Mapped inventory across 9 active cities (including Delhi, Hyderabad, and Mumbai), detailing regional volume and brand-level market shares.
+## Key Insights
+
+* **Executive Pricing & Depreciation**: Tracked 1,000,000 used car listings showing an average valuation of 1.01M, highlighting a steady price depreciation curve against vehicle registration age.
+* **Engine & Performance Metrics**: Analyzed engine specifications across 39 active models, recording an average horsepower of 120.54 and 1.51K engine CC mapped across different fuel types and brands.
+* **Vehicle Condition & Ownership**: Evaluated accident history and ownership impact, revealing that first-owner cars make up 599K listings and accident-free vehicles maintain a higher average valuation.
+* **Regional Inventory Distribution**: Mapped inventory across 9 active cities (including Delhi, Hyderabad, and Mumbai), detailing regional volume and brand-level market shares.
 
 ## Dashboard Screenshots
 
