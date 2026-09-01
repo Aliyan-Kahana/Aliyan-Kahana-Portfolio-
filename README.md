@@ -50,7 +50,7 @@ A comprehensive data analysis project examining a used car dataset of over one m
 * **Executive Visualizations**: Designed custom visual layouts highlighting market pricing drivers, regional distribution, and top-selling brand configurations.
 * ## 📈 Excel Analytics & Market Reporting
 
-* **Excel File**: [Browse Excel File](./used_cars_analysis.xlsx)
+* **Excel File**: [Browse Excel File](https://docs.google.com/spreadsheets/d/1rFVI-xMbblhBJ3QsIJj-b6ml6cCaoiYc/edit?usp=drive_link&ouid=112088017941688972371&rtpof=true&sd=true)
 
 ### Advanced Formulas & Pivot Tables
 
