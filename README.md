@@ -127,3 +127,8 @@ A comprehensive data analysis project examining a dataset of 1,000,000 used car 
 
 #### 5. Advanced Pivot Charts & Distributions
 ![Pivot Charts Preview](./excel%20images/Screenshot%202026-09-01%20102803.png)
+## Key Metrics
+
+* **Total Rows:** ~1,000,000
+* **Total Columns:** 16
+* **Key Attributes:** Car Brands & Models, Engine CC, Horsepower, Registration Age, Pricing, and Mileage
