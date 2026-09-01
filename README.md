@@ -1,6 +1,7 @@
 # Aliyan-Kahana-Portfolio-
 A comprehensive data analysis project examining a used car dataset of over one million rows processed via a single-file workflow, leveraging Python, SQL, Excel, and Power BI to uncover pricing trends, registration age distribution, brand market shares, and engine specifications.
 ## Python & Pandas Data Pipeline
+* **Jupyter Notebook**: [`used_car_price_prediction.ipynb`](./used_car_price_prediction.ipynb) contains data preprocessing, EDA, and feature engineering.
 * **Data Ingestion**: Efficiently loaded and processed a massive dataset containing over 1,000,000 rows into memory within a single-file workflow framework.
 * **Data Cleaning & Standardization**: Used Pandas and NumPy to handle missing values, strip whitespace, standardize text formatting across categorical features, and remove anomalies.
 * **Feature Engineering**: Transformed raw attributes into actionable metrics, such as calculating registration age and processing engine specifications for better statistical evaluation.
