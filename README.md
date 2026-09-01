@@ -4,8 +4,22 @@ A comprehensive data analysis project examining a used car dataset of over one m
 
 * **Jupyter Notebook**: [`used_car_price_prediction.ipynb`](./used_car_price_prediction.ipynb)contains data preprocessing, EDA, and feature engineering.
 * **Data Ingestion**: Efficiently loaded and processed a massive dataset containing over 1,000,000 rows into memory within a single-file workflow framework.
-* **Data Cleaning & Standardization**: Used Pandas and NumPy to handle missing values, strip whitespace, standardize text formatting across categorical features, and remove anomalies.
 * **Feature Engineering**: Transformed raw attributes into actionable metrics, such as calculating registration age and processing engine specifications for better statistical evaluation.
+* ## Data Cleaning & Preprocessing Pipeline
+
+* `# Inspect data structure, non-null counts, and data types\ndf.info()`
+* `# Fix column names`
+* `# Remove duplicate rows`
+* `# Remove extra spaces`
+* `# Standardize text and numeric columns`
+* `# Fix spelling errors and inconsistent categories`
+* `# Fix data types`
+* `# Handle invalid values`
+* `# Handle missing values and outliers`
+* `# Drop unnecessary columns`
+* `# Create new useful columns (feature engineering)`
+* `# Verify categories`
+* `# Check final dataset`
 # Used Cars Market Analysis & Price Prediction
 
 ## Project Overview
