@@ -48,3 +48,12 @@ A comprehensive data analysis project examining a used car dataset of over one m
 * **Data Modeling & DAX**: Built custom DAX measures for Average Car Price, Total Vehicle Count, Price-to-Mileage Ratios, and Year-over-Year depreciation trends.
 * **Interactive Filtering & Slicers**: Enabled dynamic cross-filtering by car brand, model year, fuel type, transmission, and body style.
 * **Executive Visualizations**: Designed custom visual layouts highlighting market pricing drivers, regional distribution, and top-selling brand configurations.
+* ## 📈 Excel Analytics & Market Reporting
+
+* **Excel File**: [Browse Excel File](./used_cars_analysis.xlsx)
+
+### Advanced Formulas & Pivot Tables
+
+* **Data Retrieval & Cleaning**: Applied `XLOOKUP` and `COALESCE` formulas to handle missing records and merge vehicle specifications dynamically without modifying source data.
+* **Aggregations & Summaries**: Built interactive Pivot Tables using `AVERAGEIFS` and `SUMPRODUCT` to aggregate market prices across different car brands, registration years, and mileage brackets.
+* **KPI Formatting & Charts**: Created conditional formatting rules and custom charts to highlight key pricing trends, market share distribution, and depreciation metrics.
