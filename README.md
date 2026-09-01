@@ -76,3 +76,20 @@ A comprehensive data analysis project examining a used car dataset of over one m
 
 ### 4. Used Car Inventory & Regional Price Overview
 ![Inventory & Regional Overview](./images/Screenshot%202026-09-01%20101641.png)
+📊 Excel Analysis & Dashboards
+
+* **Excel File**: [Download Used Cars Analysis Excel File](https://drive.google.com/uc?export=download&id=1rFVI-xMbblhBJ3QsIJj-b6ml6cCaoiYc)
+
+### Advanced Formulas & Pivot Tables
+
+* **Data Retrieval & Cleaning**: Applied `XLOOKUP` and `COALESCE` formulas to handle missing records and merge vehicle specifications dynamically without modifying source data.
+* **Aggregations & Summaries**: Built interactive Pivot Tables using `AVERAGEIFS` and `SUMPRODUCT` to aggregate market prices across different car brands, registration years, and mileage brackets.
+* **KPI Formatting & Charts**: Created conditional formatting rules and custom charts to highlight key pricing trends, market share distribution, and depreciation metrics.
+
+## Excel Screenshots
+
+### 1. Advanced Formulas & Data Cleaning
+![Excel Formulas Preview](./excel%20images/your_formula_screenshot.png)
+
+### 2. Pivot Tables & Summary Reports
+![Excel Pivot Tables Preview](./excel%20images/your_pivot_screenshot.png)
