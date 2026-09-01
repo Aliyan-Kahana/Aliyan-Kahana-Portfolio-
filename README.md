@@ -39,3 +39,12 @@ A comprehensive data analysis project examining a used car dataset of over one m
 * **CTE & Subqueries**: Used Common Table Expressions (`WITH`) and subqueries to structure top/bottom product category rankings and total order calculations.
 ## License
 * **Type**: Distributed under the MIT License (see `LICENSE` for details).
+## 📊 Power BI Interactive Dashboards & Analytics
+
+* **Dashboard Overview**: Comprehensive visual analysis tracking pricing trends, registration age, brand market shares, and engine specifications for used cars.
+
+## Key Power BI Features & Modeling
+
+* **Data Modeling & DAX**: Built custom DAX measures for Average Car Price, Total Vehicle Count, Price-to-Mileage Ratios, and Year-over-Year depreciation trends.
+* **Interactive Filtering & Slicers**: Enabled dynamic cross-filtering by car brand, model year, fuel type, transmission, and body style.
+* **Executive Visualizations**: Designed custom visual layouts highlighting market pricing drivers, regional distribution, and top-selling brand configurations.
