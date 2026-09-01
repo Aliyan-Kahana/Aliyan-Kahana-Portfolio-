@@ -116,9 +116,6 @@ A comprehensive data analysis project examining a dataset of 1,000,000 used car 
 
 ### Excel Screenshots
 
-#### 1. Dataset & Raw Data Structure
-![Dataset Preview](./excel%20images/Screenshot%202026-09-01%20102645.jpg)
-
 #### 2. Advanced Formulas & Calculations
 ![Formulas Preview](./excel%20images/Screenshot%202026-09-01%20102705.png)
 
