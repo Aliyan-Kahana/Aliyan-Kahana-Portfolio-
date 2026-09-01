@@ -29,12 +29,12 @@ A comprehensive data analysis project examining a used car dataset of over one m
 * **Run Environment**: Launch Jupyter Notebook using `jupyter notebook used_car_price_prediction.ipynb`
 ## 🛢️ SQL Data Analysis & Business Queries
 
-* **SQL Script**: [`cars.sql`](./cars.sql)[cite: 1]
+* **SQL Script**: [`cars.sql`](./cars.sql)
 
 ## Query Capabilities & Business Logic
 
-* **Multi-Table Joins**: Executed multi-level `JOIN` operations across customer, order, order item, and product tables[cite: 1].
-* **Advanced Aggregations**: Applied `SUM()`, `COUNT()`, `AVG()`, and grouping logic to calculate regional revenues, average order values, and category price-to-freight ratios[cite: 1].
-* **CTE & Subqueries**: Used Common Table Expressions (`WITH`) and subqueries to structure top/bottom product category rankings and total order calculations[cite: 1].
+* **Multi-Table Joins**: Executed multi-level `JOIN` operations across customer, order, order item, and product tables.
+* **Advanced Aggregations**: Applied `SUM()`, `COUNT()`, `AVG()`, and grouping logic to calculate regional revenues, average order values, and category price-to-freight ratios.
+* **CTE & Subqueries**: Used Common Table Expressions (`WITH`) and subqueries to structure top/bottom product category rankings and total order calculations.
 ## License
 * **Type**: Distributed under the MIT License (see `LICENSE` for details).
